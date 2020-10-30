@@ -17,8 +17,8 @@ fn main() {
     calculus("-(3*(2+(4*8*(-2+4*(2+1))))"); // Missing the last parenthesis -> error? :P
 
     
-
-    // calculus(&input);
+    println!("\n\nA teraz to tvoje: ");
+    calculus(&input);
 
 }
 
