@@ -1,6 +1,6 @@
 [package]
 name = "kalkulacka"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Hydrant777 <alyen.faith@gmail.com>"]
 edition = "2018"
 
