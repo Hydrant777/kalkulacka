@@ -111,18 +111,4 @@ fn calculus(input: &str) {
 
   println!(" Input: {} => {}",&output, result);
 
-  // ahaaa, takze nie output bol na vine, ale output_mod stale..  ok, ale ja chcem updatnut tie data, kde mi ukazuje &output
-  // cize som dumal, ze takto.. izy :)
-  // kua, ale o tom sme uz rozpravali, aj ked.. chuj si pamatam :)
-  // hybaj na blabla.. bol by v tom cert, aby sme to nedali
-  
-  // match op.as_str() {
-  //   "+" => result = n1+n2,
-  //   "-" => result = n1-n2,
-  //   "*" => result = n1*n2,
-  //   "/" => result = n1/n2,
-  //   "%" => result = n1%n2,
-  //   _ => println!("Wrong operation (or not implemented)."),
-  // };
-
 }
